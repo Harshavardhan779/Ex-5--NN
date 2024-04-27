@@ -108,7 +108,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ![nn-05](https://github.com/Harshavardhan779/Ex-5--NN/assets/118707175/ad0c3e37-f22f-4235-b0a5-e029c97d7a3c)
 
-<H3>Result:</H3>
+<H4>Result:</H4>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
 
 
